@@ -14,7 +14,6 @@
 - [Getting Started](#-getting-started)
 - [Usage Workflow](#-usage-workflow)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
