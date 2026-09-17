@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="256" viewBox="0 0 768 256">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <!-- Icon container -->
+  <g transform="translate(32, 28)">
+    <rect width="200" height="200" rx="56" ry="56" fill="url(#grad)" />
+    <g transform="translate(35, 35)">
+      <path d="M 36.4 110.5 L 36.4 19.5 C 97.5 19.5, 97.5 67.6, 36.4 67.6 M 49.4 67.6 L 106.6 110.5"
+            fill="none" stroke="#FFFFFF" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="110.5" cy="31.2" r="10.4" fill="#FFFFFF" />
+    </g>
+  </g>
+  <!-- Typography -->
+  <text x="270" y="155" font-family="Roboto, sans-serif" font-size="110" font-weight="900" letter-spacing="8" fill="#0F172A">RIDO</text>
+</svg>
